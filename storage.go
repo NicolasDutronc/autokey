@@ -1,4 +1,4 @@
-package key
+package autokey
 
 // Storage defines how a key is stored
 type Storage interface {

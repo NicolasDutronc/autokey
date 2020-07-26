@@ -1,4 +1,4 @@
-package key
+package autokey
 
 import (
 	"crypto/rand"
